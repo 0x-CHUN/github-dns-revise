@@ -7,7 +7,7 @@ Use [ipaddress.com](https://www.ipaddress.com/) to solve github's CDN domain nam
 ### Requirements
 
 * requests
-* from lxml
+* lxml
 
 ### Usage
 
